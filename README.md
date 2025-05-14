@@ -1,2 +1,3 @@
-# QLDDD
-Phần mền quản lí cửa hàng đồ gia dụng
+# QLCH_dochoi
+
+Phần mền quản lí cửa hàng đồ chơi
